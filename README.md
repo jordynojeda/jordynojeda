@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Jordyn Ojeda
 
-Welcome to my little corner of GitHub! I'm a **Data Scientist** with a strong foundation in **software engineering**, and I'm deeply passionate about all things **AI, machine learning, and innovative problem-solving**. Whether it's building intelligent systems, contributing to research, or learning the latest tech, I'm always hungry to push boundaries and grow.
+Welcome to my little corner of GitHub! I'm a **AI/ML Engineer** with a strong foundation in **software engineering**, and I'm deeply passionate about all things **AI, machine learning, and innovative problem-solving**. Whether it's building intelligent systems, contributing to research, or learning the latest tech, I'm always hungry to push boundaries and grow.
 
 ### 🔧 What I’m Working On
 - Currently diving into **Kaggle competitions**, fine-tuning an **LLM**, and building a **RAG (Retrieval-Augmented Generation) app in Streamlit**.
